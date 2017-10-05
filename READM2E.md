@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+### 09/28/2017
+### Chuyao Geng
+### Metric Data
+### HW3
 
-You can use the [editor on GitHub](https://github.com/chuyaogeng/HW/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I chose [Medium](https://medium.com/reportedly/welcome-to-reported-ly-3363a5fb7ea5) Because of the neat user experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Advantage
+1. The most obvious reason is, the page is so clean. There's no ads on it, nether side nor in the passage. There's no "related reading" suggestions showing up when you are reading. And there's no lines or rectangle that "decorating" the page. It's just so clean. And I feel so relaxed.
+2. The serif font add the feeling of reading a book. But the serif is very small, so it won't interrupt your reading experience even if you are reading on low resolution screen. The word space and line space let the words breath. Therefor, leave the words clear and easy to read. 
+3. The pictures are all in high resolution. The space between the paragraph and the picture is large, so it's easy to distinguish and continue reading. Also, the head pic covers the whole width and usually whole length, which avoids the fragmented feeling and lead reader to reading mood.
+4. The new "clap" function upgraded the experience of previous "like". It allows reader to express how appreciate they are when reading the article which add the dimension on the depth of like. Also the animation is satisfying.
 
-### Markdown
+So in conclusion, I think there's **3 facture** to choose a platform for being citizen journalism:
+* Number of target potential reader
+* Reading experience
+* Permission to post
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chuyaogeng/HW/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### The first one varies, but Medium win the later two. 
